@@ -1,23 +1,23 @@
-# Ad-Hoc (14 / 90)
+# Ad-Hoc (14 / 103)
 
 
 
 ## Problemas resolvidos
 
-  - [x]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1136.poti)
-  - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/uoj-potigol/blob/master/src/1100/1140.poti)
-  - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1266.poti)
-  - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/uoj-potigol/blob/master/src/1200/1285.poti)
-  - [x]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1300.poti)
-  - [x]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1318.poti)
-  - [x]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1379.poti)
-  - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/uoj-potigol/blob/master/src/1300/1387.poti)
-  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1414.poti)
-  - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/uoj-potigol/blob/master/src/1400/1441.poti)
-  - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/uoj-potigol/blob/master/src/1700/1743.poti)
-  - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2345.poti)
-  - [x]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot](https://github.com/potigol/uoj-potigol/blob/master/src/2300/2349.poti)
-  - [x]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/uoj-potigol/blob/master/src/3000/3024.poti)
+  - [x]  [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!](https://github.com/potigol/beecrowd/blob/master/src/1100/1136.poti)
+  - [x]  [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flores Florescem da França](https://github.com/potigol/beecrowd/blob/master/src/1100/1140.poti)
+  - [x]  [1266](https://www.beecrowd.com.br/judge/pt/problems/view/1266) - [Tornado!](https://github.com/potigol/beecrowd/blob/master/src/1200/1266.poti)
+  - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/beecrowd/blob/master/src/1200/1285.poti)
+  - [x]  [1300](https://www.beecrowd.com.br/judge/pt/problems/view/1300) - [Horas e Minutos](https://github.com/potigol/beecrowd/blob/master/src/1300/1300.poti)
+  - [x]  [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) - [Bilhetes Falsos](https://github.com/potigol/beecrowd/blob/master/src/1300/1318.poti)
+  - [x]  [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) - [Problema com Mediana e Média](https://github.com/potigol/beecrowd/blob/master/src/1300/1379.poti)
+  - [x]  [1387](https://www.beecrowd.com.br/judge/pt/problems/view/1387) - [Og](https://github.com/potigol/beecrowd/blob/master/src/1300/1387.poti)
+  - [x]  [1414](https://www.beecrowd.com.br/judge/pt/problems/view/1414) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/1400/1414.poti)
+  - [x]  [1441](https://www.beecrowd.com.br/judge/pt/problems/view/1441) - [Sequências de Granizo](https://github.com/potigol/beecrowd/blob/master/src/1400/1441.poti)
+  - [x]  [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Máquina de Verificação Automatizada](https://github.com/potigol/beecrowd/blob/master/src/1700/1743.poti)
+  - [x]  [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams](https://github.com/potigol/beecrowd/blob/master/src/2300/2345.poti)
+  - [x]  [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot](https://github.com/potigol/beecrowd/blob/master/src/2300/2349.poti)
+  - [x]  [3024](https://www.beecrowd.com.br/judge/pt/problems/view/3024) - [Mountain Ranges](https://github.com/potigol/beecrowd/blob/master/src/3000/3024.poti)
 
 ## Problemas não resolvidos
 
@@ -97,3 +97,16 @@
   - [ ]  [3021](https://www.beecrowd.com.br/judge/pt/problems/view/3021) - Jumping Grasshopper
   - [ ]  [3022](https://www.beecrowd.com.br/judge/pt/problems/view/3022) - Know your Aliens
   - [ ]  [3023](https://www.beecrowd.com.br/judge/pt/problems/view/3023) - Leverage MDT
+  - [ ]  [3359](https://www.beecrowd.com.br/judge/pt/problems/view/3359) - Ancient Towers
+  - [ ]  [3360](https://www.beecrowd.com.br/judge/pt/problems/view/3360) - Because, Art!
+  - [ ]  [3361](https://www.beecrowd.com.br/judge/pt/problems/view/3361) - Cyclists versus Clouds
+  - [ ]  [3362](https://www.beecrowd.com.br/judge/pt/problems/view/3362) - Daily Turnovers
+  - [ ]  [3363](https://www.beecrowd.com.br/judge/pt/problems/view/3363) - Expedition Plans
+  - [ ]  [3364](https://www.beecrowd.com.br/judge/pt/problems/view/3364) - Fields Division
+  - [ ]  [3365](https://www.beecrowd.com.br/judge/pt/problems/view/3365) - Generator Tree
+  - [ ]  [3366](https://www.beecrowd.com.br/judge/pt/problems/view/3366) - Hamilton - The Musical
+  - [ ]  [3367](https://www.beecrowd.com.br/judge/pt/problems/view/3367) - Invested Money
+  - [ ]  [3368](https://www.beecrowd.com.br/judge/pt/problems/view/3368) - Joining Pairs
+  - [ ]  [3369](https://www.beecrowd.com.br/judge/pt/problems/view/3369) - KIARA is a Recursive Acronym
+  - [ ]  [3370](https://www.beecrowd.com.br/judge/pt/problems/view/3370) - Leaving Yharnam
+  - [ ]  [3371](https://www.beecrowd.com.br/judge/pt/problems/view/3371) - Most Ordered Way

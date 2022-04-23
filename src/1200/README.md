@@ -1,4 +1,4 @@
-# Problemas 1200 (34%)
+# Problemas 1200 (36%)
 
   - [ ]  [1200](https://www.beecrowd.com.br/judge/pt/problems/view/1200) - Operações em ABP I *Grafos*
   - [ ]  [1201](https://www.beecrowd.com.br/judge/pt/problems/view/1201) - Operações em ABP II *Grafos*
@@ -77,7 +77,7 @@
   - [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks *Estruturas e Bibliotecas*
   - [ ]  [1275](https://www.beecrowd.com.br/judge/pt/problems/view/1275) - Light Up *Grafos*
   - [x]  [1276](https://www.beecrowd.com.br/judge/pt/problems/view/1276) - [Faixa de Letras](https://github.com/potigol/beecrowd/blob/master/src/1200/1276.poti) *Strings*
-  - [ ]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - Pouca Frequência *Strings*
+  - [x]  [1277](https://www.beecrowd.com.br/judge/pt/problems/view/1277) - [Pouca Frequência](https://github.com/potigol/beecrowd/blob/master/src/1200/1277.poti) *Strings*
   - [x]  [1278](https://www.beecrowd.com.br/judge/pt/problems/view/1278) - [Justificador II](https://github.com/potigol/beecrowd/blob/master/src/1200/1278.poti) *Strings*
   - [ ]  [1279](https://www.beecrowd.com.br/judge/pt/problems/view/1279) - Ano Bissexto ou Ano não Bissexto *Matemática*
   - [ ]  [1280](https://www.beecrowd.com.br/judge/pt/problems/view/1280) - Amigos *Matemática*
@@ -87,7 +87,7 @@
   - [ ]  [1284](https://www.beecrowd.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular *Strings*
   - [x]  [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) - [Dígitos Diferentes](https://github.com/potigol/beecrowd/blob/master/src/1200/1285.poti) *Ad-Hoc*
   - [ ]  [1286](https://www.beecrowd.com.br/judge/pt/problems/view/1286) - Motoboy *Paradigmas*
-  - [ ]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - Processador Amigável de Inteiros *Strings*
+  - [x]  [1287](https://www.beecrowd.com.br/judge/pt/problems/view/1287) - [Processador Amigável de Inteiros](https://github.com/potigol/beecrowd/blob/master/src/1200/1287.poti) *Strings*
   - [ ]  [1288](https://www.beecrowd.com.br/judge/pt/problems/view/1288) - Canhão de Destruição *Paradigmas*
   - [ ]  [1289](https://www.beecrowd.com.br/judge/pt/problems/view/1289) - Qual é a Probabilidade? *Matemática*
   - [ ]  [1290](https://www.beecrowd.com.br/judge/pt/problems/view/1290) - Caixas Muito Especiais *Ad-Hoc*

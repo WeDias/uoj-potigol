@@ -1,4 +1,4 @@
-# Problemas 1500 (24%)
+# Problemas 1500 (27%)
 
   - [ ]  [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - Consultas Horríveis *Estruturas e Bibliotecas*
   - [ ]  [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - Quantos Zeros e Quantos Dígitos? *Matemática*
@@ -36,7 +36,7 @@
   - [x]  [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detetive Watson](https://github.com/potigol/beecrowd/blob/master/src/1500/1533.poti) *Ad-Hoc*
   - [x]  [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Matriz 123](https://github.com/potigol/beecrowd/blob/master/src/1500/1534.poti) *Iniciante*
   - [ ]  [1535](https://www.beecrowd.com.br/judge/pt/problems/view/1535) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
-  - [ ]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - Libertadores *Ad-Hoc*
+  - [x]  [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - [Libertadores](https://github.com/potigol/beecrowd/blob/master/src/1500/1536.poti) *Ad-Hoc*
   - [x]  [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Fila do Banco](https://github.com/potigol/beecrowd/blob/master/src/1500/1537.poti) *Matemática*
   - [ ]  [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - Sequência Alienígena *Estruturas e Bibliotecas*
   - [ ]  [1539](https://www.beecrowd.com.br/judge/pt/problems/view/1539) - Empresa de Telecom *Grafos*
@@ -47,7 +47,7 @@
   - [ ]  [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - O Último Dígito Não-Zero *Matemática*
   - [ ]  [1545](https://www.beecrowd.com.br/judge/pt/problems/view/1545) - Cartões II *Paradigmas*
   - [x]  [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/potigol/beecrowd/blob/master/src/1500/1546.poti) *Ad-Hoc*
-  - [ ]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - Adivinha *Ad-Hoc*
+  - [x]  [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - [Adivinha](https://github.com/potigol/beecrowd/blob/master/src/1500/1547.poti) *Ad-Hoc*
   - [x]  [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Fila do Recreio](https://github.com/potigol/beecrowd/blob/master/src/1500/1548.poti) *Estruturas e Bibliotecas*
   - [x]  [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Dividindo a Coca](https://github.com/potigol/beecrowd/blob/master/src/1500/1549.poti) *Geometria Computacional*
   - [ ]  [1550](https://www.beecrowd.com.br/judge/pt/problems/view/1550) - Inversão *Grafos*
@@ -61,7 +61,7 @@
   - [x]  [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - [Soma de Dois Quadrados](https://github.com/potigol/beecrowd/blob/master/src/1500/1558.poti) *Ad-Hoc*
   - [ ]  [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - 2048 *Ad-Hoc*
   - [ ]  [1560](https://www.beecrowd.com.br/judge/pt/problems/view/1560) - Energia dos Triângulos *Geometria Computacional*
-  - [ ]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - Relógio Binário *Ad-Hoc*
+  - [x]  [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Relógio Binário](https://github.com/potigol/beecrowd/blob/master/src/1500/1561.poti) *Ad-Hoc*
   - [ ]  [1562](https://www.beecrowd.com.br/judge/pt/problems/view/1562) - Escolhendo as Duplas *Grafos*
   - [ ]  [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - O Grande Problema *Matemática*
   - [x]  [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Vai Ter Copa?](https://github.com/potigol/beecrowd/blob/master/src/1500/1564.poti) *Iniciante*
